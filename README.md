@@ -1,2 +1,2 @@
-# list_empty_s3_buckets
+# list empty s3 buckets
 python code for empty s3 buckets
